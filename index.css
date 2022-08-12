@@ -1,0 +1,277 @@
+#header{
+    background-color: #e1dedf;
+    position: relative;
+    width: 100%;
+    height: 760px;
+}
+#h4s{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+
+}
+h1:hover{
+    color: #449dec;
+}
+h1{
+    font-family: 'Lato', sans-serif;
+    position: absolute;
+    left: 70px;
+    
+    
+}
+#h11{
+    font-size: 4em;
+    top: 60px;
+}
+
+#h12{
+    font-size: 7em; 
+   top: 80px;
+}
+#h13{
+    font-size: 7em; 
+   top: 430px;
+   left: 800px;
+}
+#h14{
+    font-size: 7em; 
+   top: 530px;
+   left: 800px;
+}
+#header img{
+    position: absolute;
+    width: 31%;
+    left: 70px;
+    top: 290px;
+}
+
+#h41{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    top:650px;
+    left:250px;
+}
+
+#img1 img{
+    width: 5%;
+    top: 610px;
+}
+
+#main1{
+    background: rgb(39,46,50);
+    background: linear-gradient(147deg, rgba(39,46,50,1) 0%, rgba(2,2,3,1) 100%);
+    width: 100%;
+    height: 760px;
+    position: relative;
+    
+}
+#main1 img{
+    position: absolute;
+    width: 45%;
+    top: 60px;
+    left: 50%;
+}
+#para{
+    position: absolute;
+    width: 600px;
+    height: 300px;
+    text-align: justify;
+    left:120px ;
+    top:300px;
+    color: #5c6e73;
+    font-family: 'Poppins', sans-serif;
+}
+#main1 h2{
+    position: absolute;
+    font-family: 'Lato', sans-serif;
+    color: white;
+    left: 120px;
+    top: 180px;
+    font-size: 3em;
+}
+#parabold{
+    position: absolute;
+    color: #313232;
+    font-family: 'Roboto Condensed', sans-serif;
+    top: 5px;
+    left: 45%;
+    font-size: 1.2em;
+}
+#main2{
+    background-color: #3f3f3f;
+    width: 100%;
+    height: 760px;
+    position: relative;
+    color:white;
+}
+#mome{
+    color: #525353;
+    font-family: 'Volkhov', serif;
+    position: absolute;
+    font-size: 9em;
+    bottom: 450px;
+    left: 100px;
+}
+#mome2{
+    color: #525353;
+    font-family: 'Volkhov', serif;
+    position: absolute;
+    font-size: 5em;
+    top: 450px;
+    left: 930px;
+}
+
+#main3s{
+    font-family: 'Meddon', cursive;
+    color: #89ef07;
+    font-size: 5em;
+    position: absolute;
+    left: 1080px;
+    top: 450px;
+
+
+}
+
+.highlight {color: #89ef07}
+#main2s{
+    font-family: 'Meddon', cursive;
+    color: #89ef07;
+    font-size: 5em;
+    position: absolute;
+    left: 450px;
+    bottom: 500px;
+
+
+}
+#vl {
+    border-left: 2px solid #696868;
+    height:760px;
+    position: absolute;
+    left: 150px;
+  }
+#vl img{
+    width: 25%;
+    padding-top: 200px;
+}
+#vk {
+    border-left: 2px solid #696868;
+    height:760px;
+    position: absolute;
+    left: 550px;
+  }
+#vk img{
+    width: 35%;
+    padding-top: 440px;
+    
+}
+#vj {
+    border-left: 2px solid transparent;
+    height:760px;
+    position: absolute;
+    left: 600px;
+  }
+#vj img{
+    width: 35%;
+    padding-top: 130px;
+    
+}
+#vh {
+    border-left: 2px solid #696868;
+    height:760px;
+    position: absolute;
+    left: 1010px;
+  }
+#vh img{
+    width: 35%;
+    padding-top: 130px;
+    
+}
+#vg {
+    border-left: 2px solid #696868;
+    height:760px;
+    position: absolute;
+    left: 917px;
+  }
+#vf {
+    border-left: 2px solid #696868;
+    height:760px;
+    position: absolute;
+    left: 1100px;
+  }
+#vf img{
+    width: 85%;
+    padding-top: 240px;
+}
+
+#video{
+    width: 100%;
+    height: 760px;
+    position: relative;
+    background: rgb(214,193,140);
+    background: radial-gradient(circle, rgba(214,193,140,1) 0%, rgba(229,224,206,1) 100%);
+
+}
+
+iframe{
+    position: absolute;
+    top: 32px;
+    left: 12%;
+    border-radius: 25px;
+}
+#awards{
+    width: 100%;
+    height: 760px;
+    position: relative;
+    
+}
+
+.awp{
+    font-family: 'Saira Semi Condensed', sans-serif;
+    font-size: 1.3em;
+}
+.awarpara{
+    width: 230px;
+    padding-left: 30px;
+    
+}
+.awhead{
+    font-family: 'Cabin Condensed', sans-serif;
+    font-size: 2em;
+    padding-left: 220px;
+}
+
+#awar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 150px;
+}
+#awmh{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 3em;
+    position: absolute;
+    bottom: 610px;
+    left: 370px;
+}
+
+.awa{
+    border-radius: 25px;
+    border: solid black;
+    width: 300px;
+    height: 250px;
+}
+#awar1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 100px;
+}
+.aw{
+    border-radius: 25px;
+    border: solid black;
+    width: 300px;
+    height: 250px;
+}
